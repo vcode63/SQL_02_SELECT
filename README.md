@@ -5,6 +5,6 @@ Tutoriel SQL SELECT
 Exécuter le script: create_stock.sql
 
 ## Les requêtes 
-Script: select_stosc_corr.sql
+Script: select_stock_corr.sql
 
 
